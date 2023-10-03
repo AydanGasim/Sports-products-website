@@ -1,0 +1,39 @@
+/* Navbar styling */
+.navbar {
+    background-color: blueviolet; /* Adjust the color as needed */
+}
+
+.navbar-brand {
+    color: #000000; /* Adjust the color as needed */
+}
+
+.navbar-toggler-icon {
+    background-image: url('path/to/your-icon.svg'); /* Replace with your icon path */
+}
+
+.dropdown-menu {
+    background-color: #f0f0f0; /* Adjust the color as needed */
+}
+
+.dropdown-item {
+    color: #000000; /* Adjust the color as needed */
+}
+
+.dropdown-item:hover {
+    background-color: #e0e0e0; /* Adjust the color for hover effect */
+}
+
+.card {
+    display: flex;
+}
+
+.card {
+    width: 25%; /* Each content item takes up 25% of the container width */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.content-item img {
+    max-width: 100%; /* Make sure the image doesn't exceed its container */
+}
+
